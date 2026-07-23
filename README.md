@@ -1,58 +1,212 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hey,%20I'm%20Arshika%20✨&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Turning%20Data%20into%20Decisions%20•%20Building%20on%20Blockchain&descAlignY=52&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Arshika%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=34&descSize=40" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Big+Data+Analyst+by+profession+%F0%9F%93%8A;Blockchain+builder+at+heart+%E2%9B%93%EF%B8%8F;DSA+%2B+Java+problem+solver+%F0%9F%A7%A9;Full+Stack+Developer+%F0%9F%92%BB;Currently+turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
-</a>
+<div align="center" style="margin-top:-40px;">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&height=70&lines=SYSTEM+INITIALIZING...;IDENTITY+VERIFIED;ARSHIKA+SINGH;SOFTWARE+ENGINEER;AI+%7C+BIG+DATA+%7C+FULL+STACK;WHERE+TECHNOLOGY+MEETS+CREATIVITY"/>
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ARSHIKA-SINGH&style=flat-square&color=58A6FF&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/ARSHIKA-SINGH?style=flat-square&color=58A6FF&label=Followers)
+![Followers](https://img.shields.io/github/followers/ARSHIKA-SINGH?style=flat-square&color=58A6FF&label=Followers)
+![Stars](https://img.shields.io/github/stars/ARSHIKA-SINGH?style=flat-square&color=58A6FF)
 ![Last Commit](https://img.shields.io/github/last-commit/ARSHIKA-SINGH/ARSHIKA-SINGH?style=flat-square&color=58A6FF&label=Last%20Commit)
 
 <br/>
 
-<img src="./profile-animated.svg" width="220" alt="Arshika Singh"/>
+<table>
+<tr>
+
+<td align="center">
+
+<img src="./profile-animated.svg" width="260"/>
+
+</td>
+
+<td align="center">
+
+<img src="./matrix-reveal.svg" width="300"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-## 🧠 About Me
+---
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="animated coding character"/>
+# 👩‍💻 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
 ```java
-class Arshika {
-    private String role      = "Big Data Analyst";
-    private String[] passions = {"Blockchain", "DSA", "Full Stack Dev"};
-    private String language  = "Java";
-    private boolean curious  = true;
+public class ArshikaSingh {
 
-    public String currentFocus() {
-        return "Building things that scale, and understanding why they work.";
-    }
+    String university = "SRM University-AP";
+
+    String degree = "B.Tech Computer Science & Engineering";
+
+    String specialization = "Big Data Analytics";
+
+    double cgpa = 9.58;
+
+    String mission = "Where Technology Meets Creativity";
+
+    String[] interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software Engineering",
+        "Full Stack Development",
+        "Blockchain",
+        "Content Creation"
+    };
+
+    String currentFocus =
+        "Learning • Building • Sharing • Growing";
+
 }
 ```
 
-- 🔭 Working as a **Big Data Analyst** — turning raw data into real insight
-- ⛓️ Exploring **Blockchain**, smart contracts & decentralized systems
-- 🧩 Sharpening problem-solving through **DSA**, one problem at a time
-- ☕ Building solid backend logic with **Java**
-- 💻 Passionate about **Full Stack Development** — from database to UI
-- 🌱 Currently deep-diving into distributed systems & Web3
-- ⚡ Fun fact: I debug better with music on and worse with people watching
-- 💬 Talk to me about: Big Data pipelines, Blockchain, DSA, System Design
+### 🚀 A little about me
 
-<br clear="right"/>
+🎓 B.Tech Computer Science & Engineering (Big Data Analytics)
+
+🏫 SRM University-AP
+
+📊 Current CGPA **9.58 / 10**
+
+🤖 Currently exploring **Artificial Intelligence & Machine Learning**
+
+💻 Passionate about **Software Engineering** and building scalable applications
+
+🌐 Experienced with **MERN Stack Development**
+
+⛓️ Built Smart Contracts using **Solidity, Hardhat, Ganache & Web3.js**
+
+📈 Interested in **Big Data Analytics**, Business Intelligence & Data Visualization
+
+🧩 Solving **Data Structures & Algorithms** using Java
+
+🎥 Content Creator passionate about combining **Technology & Storytelling**
+
+💡 I enjoy building products that solve real-world problems while creating content that simplifies technology.
+
+---
 
 <div align="center">
 
-### 💭 Quote that keeps me going
+# 🌟 Journey Highlights
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+<table>
+
+<tr>
+
+<td align="center">
+
+🏆<br>
+<b>TEXPO'26 Champion</b><br>
+₹10,000 Winner
+
+</td>
+
+<td align="center">
+
+🥇<br>
+<b>Solar Rooftop Ideathon</b><br>
+₹15,000 Winner
+
+</td>
+
+<td align="center">
+
+🥉<br>
+<b>National Startup Day</b><br>
+Ideathon Winner
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🎥<br>
+<b>6.2K+</b><br>
+YouTube Subscribers
+
+</td>
+
+<td align="center">
+
+📈<br>
+<b>6.8M+</b><br>
+Views
+
+</td>
+
+<td align="center">
+
+📺<br>
+<b>Republic TV</b><br>
+Featured
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🎓<br>
+<b>9.58 CGPA</b>
+
+</td>
+
+<td align="center">
+
+💯<br>
+<b>10 SGPA</b>
+
+</td>
+
+<td align="center">
+
+🎤<br>
+<b>Public Speaker</b>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🚀 Currently Exploring
+
+![](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai)
+
+![](https://img.shields.io/badge/Machine%20Learning-0F62FE?style=for-the-badge)
+
+![](https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge)
+
+![](https://img.shields.io/badge/Computer%20Vision-1E88E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/System%20Design-F57C00?style=for-the-badge)
+
+![](https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github)
+
+</div>
+
+---
 
 ## ⚙️ Tech Arsenal
 
