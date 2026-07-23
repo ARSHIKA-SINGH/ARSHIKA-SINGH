@@ -35,9 +35,9 @@
 
 </div>
 
----
 
-# 👩‍💻 About Me
+
+<h2 align="left">👩‍💻 About Me</h2>
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
@@ -46,167 +46,45 @@ public class ArshikaSingh {
 
     String university = "SRM University-AP";
 
-    String degree = "B.Tech Computer Science & Engineering";
-
-    String specialization = "Big Data Analytics";
-
-    double cgpa = 9.58;
+    String degree = "B.Tech CSE";
 
     String mission = "Where Technology Meets Creativity";
 
-    String[] interests = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software Engineering",
-        "Full Stack Development",
+    String[] skills = {
+        "AI & ML",
+        "Java",
+        "MERN",
         "Blockchain",
-        "Content Creation"
     };
-
-    String currentFocus =
-        "Learning • Building • Sharing • Growing";
-
 }
 ```
 
 ### 🚀 A little about me
 
-🎓 B.Tech Computer Science & Engineering (Big Data Analytics)
+🎓 B.Tech CSE (Big Data Analytics) @ **SRM University-AP**
 
-🏫 SRM University-AP
+📈 **CGPA:** 9.58 / 10
 
-📊 Current CGPA **9.58 / 10**
+🤖 Learning **AI, Machine Learning & Big Data**
 
-🤖 Currently exploring **Artificial Intelligence & Machine Learning**
+💻 Building with **Java • MERN • Blockchain**
 
-💻 Passionate about **Software Engineering** and building scalable applications
+🎥 Creating content where **Technology meets Creativity**
 
-🌐 Experienced with **MERN Stack Development**
 
-⛓️ Built Smart Contracts using **Solidity, Hardhat, Ganache & Web3.js**
 
-📈 Interested in **Big Data Analytics**, Business Intelligence & Data Visualization
+<h2>🌟 Journey Highlights</h2>
 
-🧩 Solving **Data Structures & Algorithms** using Java
+<div align="left">
 
-🎥 Content Creator passionate about combining **Technology & Storytelling**
-
-💡 I enjoy building products that solve real-world problems while creating content that simplifies technology.
-
----
-
-<div align="center">
-
-# 🌟 Journey Highlights
-
-<table>
-
-<tr>
-
-<td align="center">
-
-🏆<br>
-<b>TEXPO'26 Champion</b><br>
-₹10,000 Winner
-
-</td>
-
-<td align="center">
-
-🥇<br>
-<b>Solar Rooftop Ideathon</b><br>
-₹15,000 Winner
-
-</td>
-
-<td align="center">
-
-🥉<br>
-<b>National Startup Day</b><br>
-Ideathon Winner
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🎥<br>
-<b>6.2K+</b><br>
-YouTube Subscribers
-
-</td>
-
-<td align="center">
-
-📈<br>
-<b>6.8M+</b><br>
-Views
-
-</td>
-
-<td align="center">
-
-📺<br>
-<b>Republic TV</b><br>
-Featured
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🎓<br>
-<b>9.58 CGPA</b>
-
-</td>
-
-<td align="center">
-
-💯<br>
-<b>10 SGPA</b>
-
-</td>
-
-<td align="center">
-
-🎤<br>
-<b>Public Speaker</b>
-
-</td>
-
-</tr>
-
-</table>
+| 🏆 Competitions | 🎥 Media & Content | 🎓 Academics |
+|:---|:---|:---|
+| 🥇 **TEXPO'26 Champion** | 🎬 **6.2K+ Subscriber & 6.8M+ Views** | 🎓 **CGPA:** 9.58 / 10 |
+| 🥇 **Solar Rooftop Ideathon Winner** | 📺 **Featured on Republic TV** | 💯 **10 SGPA(2nd Semester)** |
+| 🥉 **National Startup Day Ideathon Runner-up** | 🎤 **Public Speaker & Content Creator** | 🚀 **B.Tech CSE (Big Data Analytics)** |
 
 </div>
 
----
-
-<div align="center">
-
-## 🚀 Currently Exploring
-
-![](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai)
-
-![](https://img.shields.io/badge/Machine%20Learning-0F62FE?style=for-the-badge)
-
-![](https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/Computer%20Vision-1E88E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/System%20Design-F57C00?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github)
-
-</div>
-
----
 
 ## ⚙️ Tech Arsenal
 
