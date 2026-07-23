@@ -144,12 +144,11 @@ public class ArshikaSingh {
 
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ARSHIKA-SINGH/ARSHIKA-SINGH/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
 
-<sub>✨ Animated snake eating my contribution graph — auto-generates once the GitHub Action below is set up (see notes)</sub>
 </div>
 
 
