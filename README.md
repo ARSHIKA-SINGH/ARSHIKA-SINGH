@@ -1,33 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Arshika%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=34&descSize=40" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
 
-<div align="center" style="margin-top:-40px;">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&height=50&lines=SYSTEM+INITIALIZING...;IDENTITY+VERIFIED;ARSHIKA+SINGH;SOFTWARE+ENGINEER;AI+%7C+BIG+DATA+%7C+FULL+STACK;WHERE+TECHNOLOGY+MEETS+CREATIVITY"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&height=70&lines=SYSTEM+INITIALIZING...;IDENTITY+VERIFIED;ARSHIKA+SINGH;SOFTWARE+ENGINEER;AI+%7C+BIG+DATA+%7C+FULL+STACK;WHERE+TECHNOLOGY+MEETS+CREATIVITY"/>
+<br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=ARSHIKA-SINGH&style=flat-square&color=58A6FF&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/ARSHIKA-SINGH?style=flat-square&color=58A6FF&label=Followers"/>
+<img src="https://img.shields.io/github/stars/ARSHIKA-SINGH?style=flat-square&color=58A6FF&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/ARSHIKA-SINGH/ARSHIKA-SINGH?style=flat-square&color=58A6FF&label=Last+Commit"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ARSHIKA-SINGH&style=flat-square&color=58A6FF&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ARSHIKA-SINGH?style=flat-square&color=58A6FF&label=Followers)
-![Stars](https://img.shields.io/github/stars/ARSHIKA-SINGH?style=flat-square&color=58A6FF)
-![Last Commit](https://img.shields.io/github/last-commit/ARSHIKA-SINGH/ARSHIKA-SINGH?style=flat-square&color=58A6FF&label=Last%20Commit)
-
-<br/>
+<br><br>
 
 <table>
 <tr>
 
 <td align="center">
-
 <img src="./profile-animated.svg" width="260"/>
-
 </td>
 
+<td width="35"></td>
+
 <td align="center">
-
 <img src="./matrix-reveal.svg" width="300"/>
-
 </td>
 
 </tr>
@@ -39,7 +35,7 @@
 
 <h2 align="left">👩‍💻 About Me</h2>
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 ```java
 public class ArshikaSingh {
@@ -59,6 +55,10 @@ public class ArshikaSingh {
 }
 ```
 
+<br clear="right"/>
+
+<img align="right" width="320" height="250" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
+
 ### 🚀 A little about me
 
 🎓 B.Tech CSE (Big Data Analytics) @ **SRM University-AP**
@@ -69,9 +69,17 @@ public class ArshikaSingh {
 
 💻 Building with **Java • MERN • Blockchain**
 
-🎥 Creating content where **Technology meets Creativity**
+🎥 Creating content where **Technology Meets Creativity**
 
+<br clear="right"/>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
+
+</div>
+
+<br>
 
 <h2>🌟 Journey Highlights</h2>
 
