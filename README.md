@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="75%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&height=50&lines=SYSTEM+INITIALIZING...;IDENTITY+VERIFIED;ARSHIKA+SINGH;SOFTWARE+ENGINEER;AI+%7C+BIG+DATA+%7C+FULL+STACK;WHERE+TECHNOLOGY+MEETS+CREATIVITY"/>
 
