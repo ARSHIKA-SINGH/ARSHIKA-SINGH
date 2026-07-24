@@ -134,12 +134,6 @@ public class ArshikaSingh {
 
 <div align="center">
 
-<br><br>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARSHIKA-SINGH&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARSHIKA-SINGH&theme=tokyo-night&hide_border=true"/>
 
 </div>
