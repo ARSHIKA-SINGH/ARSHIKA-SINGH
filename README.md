@@ -33,43 +33,17 @@
 
 
 
-<h2 align="left">👩‍💻 About Me</h2>
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
-
-```java
-public class ArshikaSingh {
-
-    String university = "SRM University-AP";
-
-    String degree = "B.Tech CSE";
-
-    String mission = "Where Technology Meets Creativity";
-
-    String[] skills = {
-        "AI & ML",
-        "Java",
-        "MERN",
-        "Blockchain",
-    };
-}
-```
-
-<br clear="right"/>
-
-<img align="right" width="290"  src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
-
-### 🚀 A little about me
-
-🎓 B.Tech CSE (Big Data Analytics) @ **SRM University-AP**
-
-📈 **CGPA:** 9.58 / 10
-
-🤖 Learning **AI, Machine Learning & Big Data**
-
-💻 Building with **Java • MERN • Blockchain**
-
-🎥 Creating content where **Technology Meets Creativity**
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td valign="top">
+      <img src="./personnel-file.svg" width="470">
+    </td>
+    <td width="20"></td>
+    <td valign="top">
+      <img src="./skill-bars.svg" width="510">
+    </td>
+  </tr>
+</table>
 
 <br clear="right"/>
 
@@ -81,17 +55,7 @@ public class ArshikaSingh {
 
 <br>
 
-<h2>🌟 Journey Highlights</h2>
-
-<div align="left">
-
-| 🏆 Competitions | 🎥 Media & Content | 🎓 Academics |
-|:---|:---|:---|
-| 🥇 **TEXPO'26 Champion** | 🎬 **6.2K+ Subscriber & 6.8M+ Views** | 🎓 **CGPA:** 9.58 / 10 |
-| 🥇 **Solar Rooftop Ideathon Winner** | 📺 **Featured on Republic TV** | 💯 **10 SGPA(2nd Semester)** |
-| 🥉 **National Startup Day Ideathon Runner-up** | 🎤 **Public Speaker & Content Creator** | 🚀 **B.Tech CSE (Big Data Analytics)** |
-
-</div>
+<img src="./Achievements.svg" width="100%" alt="Achievements Unlocked">
 
 
 <h2>⚙️ Tech Arsenal</h2>
@@ -130,16 +94,12 @@ public class ArshikaSingh {
 
 </div>
 
-## ⚡Expertise Dashboard
 
-<img src="./skill-bars.svg" width="965"  alt="Animated skill proficiency bars">
-
-
-<h2 align="left">📈 GitHub Analytics</h2>
+<h2>⚡ GitHub Activity Matrix</h2>
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARSHIKA-SINGH&theme=tokyo-night&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ARSHIKA-SINGH&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARSHIKA-SINGH&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
