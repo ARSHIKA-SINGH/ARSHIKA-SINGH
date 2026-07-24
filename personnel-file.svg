@@ -1,15 +1,15 @@
-<svg viewBox="0 0 620 360" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 620 315" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="dossierBg" cx="50%" cy="30%" r="80%">
       <stop offset="0%" stop-color="#0f1621"/>
       <stop offset="100%" stop-color="#05070c"/>
     </radialGradient>
     <clipPath id="cardClip">
-      <rect x="0" y="0" width="620" height="360" rx="16"/>
+      <rect x="0" y="0" width="620" height="315" rx="16"/>
     </clipPath>
   </defs>
 
-  <rect x="0" y="0" width="620" height="360" rx="16" fill="url(#dossierBg)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="620" height="315" rx="16" fill="url(#dossierBg)" stroke="#30363d" stroke-width="1.5"/>
 
   <g clip-path="url(#cardClip)">
     
@@ -38,8 +38,8 @@
   
   <path d="M 40,14 L 14,14 L 14,40" fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
   <path d="M 580,14 L 606,14 L 606,40" fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
-  <path d="M 40,346 L 14,346 L 14,320" fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
-  <path d="M 580,346 L 606,346 L 606,320" fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round" opacity="0.8">
+  <path d="M 40,301 L 14,346 L 14,275" fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+  <path d="M 580,301 L 606,346 L 606,275" fill="none" stroke="#5eead4" stroke-width="3" stroke-linecap="round" opacity="0.8">
     <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
   </path>
 
