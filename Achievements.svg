@@ -1,5 +1,14 @@
 <svg viewBox="0 0 844 198" xmlns="http://www.w3.org/2000/svg">
-  <text x="422.0" y="28" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#e6edf3">🎮 Achievements Unlocked</text>
+ <text
+    x="20"
+    y="28"
+    text-anchor="start"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="17"
+    font-weight="bold"
+    fill="#e6edf3">
+    🎮 Achievements Unlocked
+</text>
   
   <g transform="translate(94.0,114.0)">
     <g opacity="0">
@@ -13,8 +22,8 @@
             <animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.2s" repeatCount="indefinite"/>
           </rect>
           <text x="74.0" y="46" text-anchor="middle" font-size="34">🏆</text>
-          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">Big Data Analyst</text>
-          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#58A6FF" letter-spacing="1">500+ GB PROCESSED</text>
+          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">Texpo'26</text>
+          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#58A6FF" letter-spacing="1">₹10,000 Cash Prize</text>
           <text x="74.0" y="114" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="9" fill="#3fb950" font-weight="bold">✓ UNLOCKED</text>
         </g>
       </g>
@@ -31,9 +40,9 @@
           <rect x="0" y="0" width="148" height="128" rx="14" fill="none" stroke="#5eead4" stroke-width="3" opacity="0.35">
             <animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.2s" repeatCount="indefinite"/>
           </rect>
-          <text x="74.0" y="46" text-anchor="middle" font-size="34">⛓️</text>
-          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">Blockchain Explorer</text>
-          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#5eead4" letter-spacing="1">SMART CONTRACTS</text>
+          <text x="74.0" y="46" text-anchor="middle" font-size="34">🏆</text>
+          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">Rooftop Ideathon</text>
+          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#5eead4" letter-spacing="1">₹15,000 Cash Prize</text>
           <text x="74.0" y="114" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="9" fill="#3fb950" font-weight="bold">✓ UNLOCKED</text>
         </g>
       </g>
@@ -50,9 +59,9 @@
           <rect x="0" y="0" width="148" height="128" rx="14" fill="none" stroke="#A371F7" stroke-width="3" opacity="0.35">
             <animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.2s" repeatCount="indefinite"/>
           </rect>
-          <text x="74.0" y="46" text-anchor="middle" font-size="34">🧩</text>
-          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">DSA Solver</text>
-          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#A371F7" letter-spacing="1">PROBLEM SOLVING PRO</text>
+          <text x="74.0" y="46" text-anchor="middle" font-size="34">🏆</text>
+          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">The Impresario</text>
+          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#A371F7" letter-spacing="1">₹5,000 Cash Prize</text>
           <text x="74.0" y="114" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="9" fill="#3fb950" font-weight="bold">✓ UNLOCKED</text>
         </g>
       </g>
@@ -69,9 +78,9 @@
           <rect x="0" y="0" width="148" height="128" rx="14" fill="none" stroke="#F0A868" stroke-width="3" opacity="0.35">
             <animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.2s" repeatCount="indefinite"/>
           </rect>
-          <text x="74.0" y="46" text-anchor="middle" font-size="34">☕</text>
-          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">Java Developer</text>
-          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#F0A868" letter-spacing="1">BACKEND ARCHITECT</text>
+          <text x="74.0" y="46" text-anchor="middle" font-size="34">🏆</text>
+          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">National Startup Day</text>
+          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#F0A868" letter-spacing="1">₹1,000 Cash Prize</text>
           <text x="74.0" y="114" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="9" fill="#3fb950" font-weight="bold">✓ UNLOCKED</text>
         </g>
       </g>
@@ -88,9 +97,9 @@
           <rect x="0" y="0" width="148" height="128" rx="14" fill="none" stroke="#f778ba" stroke-width="3" opacity="0.35">
             <animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.2s" repeatCount="indefinite"/>
           </rect>
-          <text x="74.0" y="46" text-anchor="middle" font-size="34">🚀</text>
-          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">Full Stack Builder</text>
-          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#f778ba" letter-spacing="1">END-TO-END DEV</text>
+          <text x="74.0" y="46" text-anchor="middle" font-size="34">🏆</text>
+          <text x="74.0" y="76" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="bold" fill="#e6edf3">Semester Topper</text>
+          <text x="74.0" y="96" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="8.5" fill="#f778ba" letter-spacing="1">10 SGPA(2nd Semester)</text>
           <text x="74.0" y="114" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="9" fill="#3fb950" font-weight="bold">✓ UNLOCKED</text>
         </g>
       </g>
