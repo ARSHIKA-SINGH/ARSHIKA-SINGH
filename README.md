@@ -130,6 +130,11 @@ public class ArshikaSingh {
 
 </div>
 
+## ⚡Expertise Dashboard
+
+<img src="./skill-bars.svg" width="965"  alt="Animated skill proficiency bars">
+
+
 <h2 align="left">📈 GitHub Analytics</h2>
 
 <div align="center">
