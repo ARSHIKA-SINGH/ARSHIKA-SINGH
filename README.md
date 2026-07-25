@@ -46,6 +46,24 @@
 </table>
 
 <br clear="right"/>
+<div align="center">
+
+<img
+  src="./Neural-map.svg"
+  alt="neural network connect diagram"
+  style="width:100%; max-width:1800px; height:420px; object-fit:fill;"
+/>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codedbyarshika@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshika-singh/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arshika_singh_07)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arshika_singh07/)
+
+<br/>
+
+</div>
 
 <div align="center">
 
@@ -56,6 +74,8 @@
 <br>
 
 <img src="./Achievements.svg" width="100%" alt="Achievements Unlocked">
+
+
 
 
 <h2>⚙️ Tech Arsenal</h2>
@@ -109,17 +129,4 @@
 <img src="https://raw.githubusercontent.com/ARSHIKA-SINGH/ARSHIKA-SINGH/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
 
 </div>
-
-
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codedbyarshika@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshika-singh/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arshika_singh_07)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arshika_singh07/)
-
-<br/>
 
