@@ -17,7 +17,13 @@
 <tr>
 
 <td align="center">
-<img src="./profile-animated.svg" width="260"/>
+<img src="./profile-animated.svg" width="300"/>
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+<img src="./fingerprint.svg" width="300"/>
 </td>
 
 <td width="35"></td>
