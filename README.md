@@ -150,7 +150,7 @@ public class ArshikaSingh {
 
 <br/><br/>
 
-<img width="90%" src="https://ghchart.rshah.org/58A6FF/ARSHIKA-SINGH" alt="GitHub contribution chart"/>
+<img width="90%" src="https://raw.githubusercontent.com/ARSHIKA-SINGH/ARSHIKA-SINGH/output/activity-graph.svg" alt="GitHub activity graph"/>
 
 </div>
 
