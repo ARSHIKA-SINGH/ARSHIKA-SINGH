@@ -2,8 +2,8 @@ name: Update Activity Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:          # lets you trigger it manually too
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:          # lets you trigger it manually from the Actions tab
 
 jobs:
   build:
@@ -20,7 +20,10 @@ jobs:
           username: ARSHIKA-SINGH
           options: theme=tokyo-night&hide_border=true&area=true
           output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Use PRIVATE_TOKEN (a PAT with 'repo' scope) so private repo
+          # contributions are counted too. Falls back to GITHUB_TOKEN
+          # (public-only) if you haven't set up the PAT yet.
+          token: ${{ secrets.PRIVATE_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Push activity-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
