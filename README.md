@@ -146,7 +146,7 @@ public class ArshikaSingh {
 
 <div align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=ARSHIKA-SINGH&theme=tokyonight&hide_border=true"/>
+<img width="65%" src="./profile/streak.svg"/>
 
 <br/><br/>
 
