@@ -38,36 +38,47 @@
 </div>
 
 
+<h2 align="left">👩‍💻 About Me</h2>
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td valign="top">
-      <img src="./personnel-file.svg" width="470">
-    </td>
-    <td width="20"></td>
-    <td valign="top">
-      <img src="./skill-bars.svg" width="510">
-    </td>
-  </tr>
-</table>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+
+```java
+public class ArshikaSingh {
+
+    String university = "SRM University-AP";
+
+    String degree = "B.Tech CSE";
+
+    String mission = "Where Technology Meets Creativity";
+
+    String[] skills = {
+        "AI & ML",
+        "Java",
+        "MERN",
+        "Blockchain",
+    };
+}
+```
 
 <br clear="right"/>
-<div align="center">
 
-<img
-  src="./Neural-map.svg"
-  alt="neural network connect diagram"
-  style="width:100%; max-width:1800px; height:420px; object-fit:fill;"
-/>
+<img align="right" width="290"  src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 
-<br/>
+### 🚀 A little about me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codedbyarshika@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshika-singh/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arshika_singh_07)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arshika_singh07/)
+🎓 B.Tech CSE (Big Data Analytics) @ **SRM University-AP**
 
-<br/>
+📈 **CGPA:** 9.58 / 10
+
+🤖 Learning **AI, Machine Learning & Big Data**
+
+💻 Building with **Java • MERN • Blockchain**
+
+🎥 Creating content where **Technology Meets Creativity**
+
+<br clear="right"/>
+
+
 
 </div>
 
@@ -129,6 +140,7 @@
 
 </div>
 
+
 ## 🐍 Contributions
 
 <div align="center">
@@ -136,3 +148,23 @@
 
 </div>
 
+<div align="center">
+
+## 📡 Connect With Me
+
+<p>
+  <a href="mailto:codedbyarshika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arshika-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@arshika_singh_07">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/arshika_singh07/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+</div>
