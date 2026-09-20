@@ -142,14 +142,17 @@ public class ArshikaSingh {
 
 </div>
 
-<h2>⚡ GitHub Activity Matrix</h2>
+## ⚡ GitHub Activity Matrix
 
 <div align="center">
-<img width="49%" src="https://streak-stats.demolab.com?user=ARSHIKA-SINGH&theme=tokyonight&hide_border=true"/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARSHIKA-SINGH&theme=tokyo-night&hide_border=true&area=true"/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=ARSHIKA-SINGH&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="90%" src="https://ghchart.rshah.org/58A6FF/ARSHIKA-SINGH" alt="GitHub contribution chart"/>
 
 </div>
-
 
 ## 🐍 Contributions
 
